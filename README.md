@@ -2,7 +2,7 @@
 - Requirements 
     - PHP >= 7.1
     - Laravel 7.0
-    - Package for [Nested Set Model]('https://github.com/lazychaser/laravel-nestedset#requirements')
+    - Package for [Nested Set Model]('https://github.com/lazychaser/laravel-nestedset') called `laravel-nestedset`
 
 - Installation
     - create Model ex Category
